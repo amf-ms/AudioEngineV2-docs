@@ -7629,7 +7629,7 @@
 					"sources": [
 						{
 							"fileName": "abstractAudio/audioEngineV2.ts",
-							"line": 48,
+							"line": 50,
 							"character": 4
 						}
 					],
@@ -7643,7 +7643,7 @@
 							"sources": [
 								{
 									"fileName": "abstractAudio/audioEngineV2.ts",
-									"line": 48,
+									"line": 50,
 									"character": 4
 								}
 							],
@@ -7668,7 +7668,7 @@
 					"sources": [
 						{
 							"fileName": "abstractAudio/audioEngineV2.ts",
-							"line": 55,
+							"line": 57,
 							"character": 24
 						}
 					],
@@ -7689,7 +7689,7 @@
 						"sources": [
 							{
 								"fileName": "abstractAudio/audioEngineV2.ts",
-								"line": 55,
+								"line": 57,
 								"character": 24
 							}
 						],
@@ -7710,7 +7710,7 @@
 					"sources": [
 						{
 							"fileName": "abstractAudio/audioEngineV2.ts",
-							"line": 62,
+							"line": 64,
 							"character": 15
 						}
 					],
@@ -7773,7 +7773,7 @@
 						"sources": [
 							{
 								"fileName": "abstractAudio/audioEngineV2.ts",
-								"line": 62,
+								"line": 64,
 								"character": 15
 							}
 						],
@@ -7797,7 +7797,7 @@
 					"sources": [
 						{
 							"fileName": "abstractAudio/audioEngineV2.ts",
-							"line": 77,
+							"line": 79,
 							"character": 24
 						}
 					],
@@ -7830,7 +7830,7 @@
 						"sources": [
 							{
 								"fileName": "abstractAudio/audioEngineV2.ts",
-								"line": 77,
+								"line": 79,
 								"character": 24
 							}
 						],
@@ -7852,7 +7852,7 @@
 					"sources": [
 						{
 							"fileName": "abstractAudio/audioEngineV2.ts",
-							"line": 83,
+							"line": 85,
 							"character": 24
 						}
 					],
@@ -7873,7 +7873,7 @@
 						"sources": [
 							{
 								"fileName": "abstractAudio/audioEngineV2.ts",
-								"line": 83,
+								"line": 85,
 								"character": 24
 							}
 						],
@@ -7897,7 +7897,7 @@
 					"sources": [
 						{
 							"fileName": "abstractAudio/audioEngineV2.ts",
-							"line": 89,
+							"line": 91,
 							"character": 24
 						}
 					],
@@ -7918,7 +7918,7 @@
 						"sources": [
 							{
 								"fileName": "abstractAudio/audioEngineV2.ts",
-								"line": 89,
+								"line": 91,
 								"character": 24
 							}
 						],
@@ -7942,7 +7942,7 @@
 					"sources": [
 						{
 							"fileName": "abstractAudio/audioEngineV2.ts",
-							"line": 94,
+							"line": 96,
 							"character": 24
 						}
 					],
@@ -7963,7 +7963,7 @@
 						"sources": [
 							{
 								"fileName": "abstractAudio/audioEngineV2.ts",
-								"line": 94,
+								"line": 96,
 								"character": 24
 							}
 						],
@@ -7987,12 +7987,12 @@
 					"sources": [
 						{
 							"fileName": "abstractAudio/audioEngineV2.ts",
-							"line": 99,
+							"line": 101,
 							"character": 24
 						},
 						{
 							"fileName": "abstractAudio/audioEngineV2.ts",
-							"line": 100,
+							"line": 102,
 							"character": 24
 						}
 					],
@@ -8013,7 +8013,7 @@
 						"sources": [
 							{
 								"fileName": "abstractAudio/audioEngineV2.ts",
-								"line": 99,
+								"line": 101,
 								"character": 24
 							}
 						],
@@ -8031,7 +8031,7 @@
 						"sources": [
 							{
 								"fileName": "abstractAudio/audioEngineV2.ts",
-								"line": 100,
+								"line": 102,
 								"character": 24
 							}
 						],
@@ -8065,7 +8065,7 @@
 					"sources": [
 						{
 							"fileName": "abstractAudio/audioEngineV2.ts",
-							"line": 149,
+							"line": 151,
 							"character": 14
 						}
 					],
@@ -8079,7 +8079,7 @@
 							"sources": [
 								{
 									"fileName": "abstractAudio/audioEngineV2.ts",
-									"line": 149,
+									"line": 151,
 									"character": 14
 								}
 							],
@@ -8116,7 +8116,7 @@
 					"sources": [
 						{
 							"fileName": "abstractAudio/audioEngineV2.ts",
-							"line": 162,
+							"line": 164,
 							"character": 14
 						}
 					],
@@ -8130,7 +8130,7 @@
 							"sources": [
 								{
 									"fileName": "abstractAudio/audioEngineV2.ts",
-									"line": 162,
+									"line": 164,
 									"character": 14
 								}
 							],
@@ -8167,7 +8167,7 @@
 					"sources": [
 						{
 							"fileName": "abstractAudio/audioEngineV2.ts",
-							"line": 155,
+							"line": 157,
 							"character": 14
 						}
 					],
@@ -8181,7 +8181,7 @@
 							"sources": [
 								{
 									"fileName": "abstractAudio/audioEngineV2.ts",
-									"line": 155,
+									"line": 157,
 									"character": 14
 								}
 							],
@@ -8218,7 +8218,7 @@
 					"sources": [
 						{
 							"fileName": "abstractAudio/audioEngineV2.ts",
-							"line": 166,
+							"line": 168,
 							"character": 14
 						}
 					],
@@ -8232,7 +8232,7 @@
 							"sources": [
 								{
 									"fileName": "abstractAudio/audioEngineV2.ts",
-									"line": 166,
+									"line": 168,
 									"character": 14
 								}
 							],
@@ -8269,7 +8269,7 @@
 					"sources": [
 						{
 							"fileName": "abstractAudio/audioEngineV2.ts",
-							"line": 105,
+							"line": 107,
 							"character": 11
 						}
 					],
@@ -8291,7 +8291,7 @@
 							"sources": [
 								{
 									"fileName": "abstractAudio/audioEngineV2.ts",
-									"line": 105,
+									"line": 107,
 									"character": 11
 								}
 							],
@@ -8314,7 +8314,7 @@
 					"sources": [
 						{
 							"fileName": "abstractAudio/audioEngineV2.ts",
-							"line": 126,
+							"line": 128,
 							"character": 20
 						}
 					],
@@ -8359,7 +8359,7 @@
 							"sources": [
 								{
 									"fileName": "abstractAudio/audioEngineV2.ts",
-									"line": 126,
+									"line": 128,
 									"character": 20
 								}
 							],
@@ -8403,7 +8403,7 @@
 					"sources": [
 						{
 							"fileName": "abstractAudio/audioEngineV2.ts",
-							"line": 132,
+							"line": 134,
 							"character": 20
 						}
 					],
@@ -8436,7 +8436,7 @@
 							"sources": [
 								{
 									"fileName": "abstractAudio/audioEngineV2.ts",
-									"line": 132,
+									"line": 134,
 									"character": 20
 								}
 							],
@@ -8470,7 +8470,7 @@
 					"sources": [
 						{
 							"fileName": "abstractAudio/audioEngineV2.ts",
-							"line": 138,
+							"line": 140,
 							"character": 20
 						}
 					],
@@ -8503,7 +8503,7 @@
 							"sources": [
 								{
 									"fileName": "abstractAudio/audioEngineV2.ts",
-									"line": 138,
+									"line": 140,
 									"character": 20
 								}
 							],
@@ -8536,7 +8536,7 @@
 					"sources": [
 						{
 							"fileName": "abstractAudio/audioEngineV2.ts",
-							"line": 145,
+							"line": 147,
 							"character": 11
 						}
 					],
@@ -8569,7 +8569,7 @@
 							"sources": [
 								{
 									"fileName": "abstractAudio/audioEngineV2.ts",
-									"line": 145,
+									"line": 147,
 									"character": 11
 								}
 							],
@@ -8629,7 +8629,7 @@
 			"sources": [
 				{
 					"fileName": "abstractAudio/audioEngineV2.ts",
-					"line": 39,
+					"line": 41,
 					"character": 22
 				}
 			]
@@ -16711,6 +16711,14 @@
 			"variant": "declaration",
 			"kind": 256,
 			"flags": {},
+			"comment": {
+				"summary": [
+					{
+						"kind": "text",
+						"text": "Options for creating a v2 audio engine."
+					}
+				]
+			},
 			"children": [
 				{
 					"id": 380,
@@ -16900,7 +16908,7 @@
 					"sources": [
 						{
 							"fileName": "abstractAudio/audioEngineV2.ts",
-							"line": 25,
+							"line": 27,
 							"character": 4
 						}
 					],
@@ -16925,7 +16933,7 @@
 			"sources": [
 				{
 					"fileName": "abstractAudio/audioEngineV2.ts",
-					"line": 21,
+					"line": 23,
 					"character": 17
 				}
 			],
@@ -21269,7 +21277,7 @@
 					"sources": [
 						{
 							"fileName": "abstractAudio/audioEngineV2.ts",
-							"line": 25,
+							"line": 27,
 							"character": 4
 						}
 					],
@@ -21346,7 +21354,7 @@
 			"sources": [
 				{
 					"fileName": "abstractAudio/audioEngineV2.ts",
-					"line": 32,
+					"line": 34,
 					"character": 12
 				}
 			],
