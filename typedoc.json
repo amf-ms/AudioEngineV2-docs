@@ -357,7 +357,7 @@
 					"type": {
 						"type": "reference",
 						"target": {
-							"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subNodes/abstractAudioSubGraph.ts",
+							"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subNodes/abstractAudioSubGraph.ts",
 							"qualifiedName": "_AbstractAudioSubGraph"
 						},
 						"name": "_AbstractAudioSubGraph",
@@ -2734,7 +2734,7 @@
 							{
 								"type": "reference",
 								"target": {
-									"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSoundInstance.ts",
+									"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSoundInstance.ts",
 									"qualifiedName": "_AbstractSoundInstance"
 								},
 								"name": "_AbstractSoundInstance",
@@ -2788,7 +2788,7 @@
 					"type": {
 						"type": "reference",
 						"target": {
-							"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subNodes/abstractAudioSubGraph.ts",
+							"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subNodes/abstractAudioSubGraph.ts",
 							"qualifiedName": "_AbstractAudioSubGraph"
 						},
 						"name": "_AbstractAudioSubGraph",
@@ -3967,7 +3967,7 @@
 									"type": {
 										"type": "reference",
 										"target": {
-											"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSoundInstance.ts",
+											"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSoundInstance.ts",
 											"qualifiedName": "_AbstractSoundInstance"
 										},
 										"name": "_AbstractSoundInstance",
@@ -4021,7 +4021,7 @@
 									"type": {
 										"type": "reference",
 										"target": {
-											"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSoundInstance.ts",
+											"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSoundInstance.ts",
 											"qualifiedName": "_AbstractSoundInstance"
 										},
 										"name": "_AbstractSoundInstance",
@@ -4149,7 +4149,7 @@
 							"type": {
 								"type": "reference",
 								"target": {
-									"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSoundInstance.ts",
+									"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSoundInstance.ts",
 									"qualifiedName": "_AbstractSoundInstance"
 								},
 								"name": "_AbstractSoundInstance",
@@ -6608,7 +6608,7 @@
 					"type": {
 						"type": "reference",
 						"target": {
-							"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subNodes/abstractAudioSubGraph.ts",
+							"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subNodes/abstractAudioSubGraph.ts",
 							"qualifiedName": "_AbstractAudioSubGraph"
 						},
 						"name": "_AbstractAudioSubGraph",
@@ -8822,7 +8822,7 @@
 					"type": {
 						"type": "reference",
 						"target": {
-							"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subNodes/abstractAudioSubGraph.ts",
+							"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subNodes/abstractAudioSubGraph.ts",
 							"qualifiedName": "_AbstractAudioSubGraph"
 						},
 						"name": "_AbstractAudioSubGraph",
@@ -9863,7 +9863,7 @@
 							{
 								"type": "reference",
 								"target": {
-									"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSoundInstance.ts",
+									"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSoundInstance.ts",
 									"qualifiedName": "_StaticSoundInstance"
 								},
 								"name": "_StaticSoundInstance",
@@ -9926,7 +9926,7 @@
 					"type": {
 						"type": "reference",
 						"target": {
-							"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subNodes/abstractAudioSubGraph.ts",
+							"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subNodes/abstractAudioSubGraph.ts",
 							"qualifiedName": "_AbstractAudioSubGraph"
 						},
 						"name": "_AbstractAudioSubGraph",
@@ -11786,7 +11786,7 @@
 									"type": {
 										"type": "reference",
 										"target": {
-											"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSoundInstance.ts",
+											"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSoundInstance.ts",
 											"qualifiedName": "_AbstractSoundInstance"
 										},
 										"name": "_AbstractSoundInstance",
@@ -11853,7 +11853,7 @@
 									"type": {
 										"type": "reference",
 										"target": {
-											"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSoundInstance.ts",
+											"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSoundInstance.ts",
 											"qualifiedName": "_AbstractSoundInstance"
 										},
 										"name": "_AbstractSoundInstance",
@@ -11991,7 +11991,7 @@
 							"type": {
 								"type": "reference",
 								"target": {
-									"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSoundInstance.ts",
+									"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSoundInstance.ts",
 									"qualifiedName": "_StaticSoundInstance"
 								},
 								"name": "_StaticSoundInstance",
@@ -13302,7 +13302,7 @@
 							{
 								"type": "reference",
 								"target": {
-									"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSoundInstance.ts",
+									"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSoundInstance.ts",
 									"qualifiedName": "_AbstractSoundInstance"
 								},
 								"name": "_AbstractSoundInstance",
@@ -13366,7 +13366,7 @@
 					"type": {
 						"type": "reference",
 						"target": {
-							"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subNodes/abstractAudioSubGraph.ts",
+							"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subNodes/abstractAudioSubGraph.ts",
 							"qualifiedName": "_AbstractAudioSubGraph"
 						},
 						"name": "_AbstractAudioSubGraph",
@@ -14876,7 +14876,7 @@
 									"type": {
 										"type": "reference",
 										"target": {
-											"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSoundInstance.ts",
+											"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSoundInstance.ts",
 											"qualifiedName": "_AbstractSoundInstance"
 										},
 										"name": "_AbstractSoundInstance",
@@ -14943,7 +14943,7 @@
 									"type": {
 										"type": "reference",
 										"target": {
-											"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSoundInstance.ts",
+											"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSoundInstance.ts",
 											"qualifiedName": "_AbstractSoundInstance"
 										},
 										"name": "_AbstractSoundInstance",
@@ -15081,7 +15081,7 @@
 							"type": {
 								"type": "reference",
 								"target": {
-									"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSoundInstance.ts",
+									"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSoundInstance.ts",
 									"qualifiedName": "_StreamingSoundInstance"
 								},
 								"name": "_StreamingSoundInstance",
@@ -16679,7 +16679,7 @@
 				{
 					"type": "reference",
 					"target": {
-						"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+						"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 						"qualifiedName": "ISpatialAudioOptions"
 					},
 					"name": "ISpatialAudioOptions",
@@ -16688,7 +16688,7 @@
 				{
 					"type": "reference",
 					"target": {
-						"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractStereoAudio.ts",
+						"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractStereoAudio.ts",
 						"qualifiedName": "IStereoAudioOptions"
 					},
 					"name": "IStereoAudioOptions",
@@ -16697,7 +16697,7 @@
 				{
 					"type": "reference",
 					"target": {
-						"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subNodes/volumeAudioSubNode.ts",
+						"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subNodes/volumeAudioSubNode.ts",
 						"qualifiedName": "IVolumeAudioOptions"
 					},
 					"name": "IVolumeAudioOptions",
@@ -16941,7 +16941,7 @@
 				{
 					"type": "reference",
 					"target": {
-						"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+						"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 						"qualifiedName": "ISpatialAudioListenerOptions"
 					},
 					"name": "ISpatialAudioListenerOptions",
@@ -17887,7 +17887,7 @@
 				{
 					"type": "reference",
 					"target": {
-						"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+						"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 						"qualifiedName": "ISpatialAudioOptions"
 					},
 					"name": "ISpatialAudioOptions",
@@ -17896,7 +17896,7 @@
 				{
 					"type": "reference",
 					"target": {
-						"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractStereoAudio.ts",
+						"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractStereoAudio.ts",
 						"qualifiedName": "IStereoAudioOptions"
 					},
 					"name": "IStereoAudioOptions",
@@ -18054,7 +18054,7 @@
 				{
 					"type": "reference",
 					"target": {
-						"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subNodes/volumeAudioSubNode.ts",
+						"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subNodes/volumeAudioSubNode.ts",
 						"qualifiedName": "IVolumeAudioOptions"
 					},
 					"name": "IVolumeAudioOptions",
@@ -18134,7 +18134,7 @@
 				{
 					"type": "reference",
 					"target": {
-						"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subNodes/volumeAudioSubNode.ts",
+						"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subNodes/volumeAudioSubNode.ts",
 						"qualifiedName": "IVolumeAudioOptions"
 					},
 					"name": "IVolumeAudioOptions",
@@ -19412,7 +19412,7 @@
 				{
 					"type": "reference",
 					"target": {
-						"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+						"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 						"qualifiedName": "ICommonStaticSoundOptions"
 					},
 					"name": "ICommonStaticSoundOptions",
@@ -19863,7 +19863,7 @@
 				{
 					"type": "reference",
 					"target": {
-						"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+						"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 						"qualifiedName": "ICommonStaticSoundOptions"
 					},
 					"name": "ICommonStaticSoundOptions",
@@ -22541,2915 +22541,2915 @@
 			"qualifiedName": ""
 		},
 		"1": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode"
 		},
 		"2": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.__constructor"
 		},
 		"3": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode"
 		},
 		"4": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "engine"
 		},
 		"5": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "nodeType"
 		},
 		"6": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._downstreamNodes"
 		},
 		"7": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._upstreamNodes"
 		},
 		"8": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.engine"
 		},
 		"9": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.onDisposeObservable"
 		},
 		"10": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.dispose"
 		},
 		"11": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.dispose"
 		},
 		"12": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.getClassName"
 		},
 		"13": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.getClassName"
 		},
 		"14": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._connect"
 		},
 		"15": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._connect"
 		},
 		"16": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "node"
 		},
 		"17": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._disconnect"
 		},
 		"18": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._disconnect"
 		},
 		"19": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "node"
 		},
 		"26": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode"
 		},
 		"27": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.__constructor"
 		},
 		"28": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode"
 		},
 		"29": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "name"
 		},
 		"30": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "engine"
 		},
 		"31": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "nodeType"
 		},
 		"33": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.onNameChangedObservable"
 		},
 		"34": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type"
 		},
 		"35": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type.oldName"
 		},
 		"36": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type.node"
 		},
 		"37": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"38": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"39": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"40": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "name"
 		},
 		"41": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.dispose"
 		},
 		"42": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.dispose"
 		},
 		"43": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._downstreamNodes"
 		},
 		"44": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._upstreamNodes"
 		},
 		"45": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.engine"
 		},
 		"46": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.onDisposeObservable"
 		},
 		"47": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.getClassName"
 		},
 		"48": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.getClassName"
 		},
 		"49": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._connect"
 		},
 		"50": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._connect"
 		},
 		"51": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "node"
 		},
 		"52": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._disconnect"
 		},
 		"53": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._disconnect"
 		},
 		"54": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "node"
 		},
 		"55": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio"
 		},
 		"58": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.coneInnerAngle"
 		},
 		"59": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.coneInnerAngle"
 		},
 		"60": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.coneInnerAngle"
 		},
 		"61": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "value"
 		},
 		"62": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.coneOuterAngle"
 		},
 		"63": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.coneOuterAngle"
 		},
 		"64": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.coneOuterAngle"
 		},
 		"65": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "value"
 		},
 		"66": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.coneOuterVolume"
 		},
 		"67": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.coneOuterVolume"
 		},
 		"68": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.coneOuterVolume"
 		},
 		"69": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "value"
 		},
 		"70": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.distanceModel"
 		},
 		"71": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.distanceModel"
 		},
 		"72": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.distanceModel"
 		},
 		"73": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "value"
 		},
 		"74": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.maxDistance"
 		},
 		"75": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.maxDistance"
 		},
 		"76": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.maxDistance"
 		},
 		"77": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "value"
 		},
 		"78": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.panningModel"
 		},
 		"79": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.panningModel"
 		},
 		"80": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.panningModel"
 		},
 		"81": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "value"
 		},
 		"82": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.position"
 		},
 		"83": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.position"
 		},
 		"84": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.position"
 		},
 		"85": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "value"
 		},
 		"86": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.referenceDistance"
 		},
 		"87": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.referenceDistance"
 		},
 		"88": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.referenceDistance"
 		},
 		"89": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "value"
 		},
 		"90": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.rolloffFactor"
 		},
 		"91": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.rolloffFactor"
 		},
 		"92": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.rolloffFactor"
 		},
 		"93": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "value"
 		},
 		"94": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.rotation"
 		},
 		"95": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.rotation"
 		},
 		"96": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.rotation"
 		},
 		"97": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "value"
 		},
 		"98": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.rotationQuaternion"
 		},
 		"99": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.rotationQuaternion"
 		},
 		"100": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "AbstractSpatialAudio.rotationQuaternion"
 		},
 		"101": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "value"
 		},
 		"102": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "AbstractSpatialAudioListener"
 		},
 		"105": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "AbstractSpatialAudioListener.position"
 		},
 		"106": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "AbstractSpatialAudioListener.position"
 		},
 		"107": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "AbstractSpatialAudioListener.position"
 		},
 		"108": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "value"
 		},
 		"109": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "AbstractSpatialAudioListener.rotation"
 		},
 		"110": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "AbstractSpatialAudioListener.rotation"
 		},
 		"111": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "AbstractSpatialAudioListener.rotation"
 		},
 		"112": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "value"
 		},
 		"113": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "AbstractSpatialAudioListener.rotationQuaternion"
 		},
 		"114": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "AbstractSpatialAudioListener.rotationQuaternion"
 		},
 		"115": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "AbstractSpatialAudioListener.rotationQuaternion"
 		},
 		"116": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "value"
 		},
 		"117": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractStereoAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractStereoAudio.ts",
 			"qualifiedName": "AbstractStereoAudio"
 		},
 		"120": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractStereoAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractStereoAudio.ts",
 			"qualifiedName": "AbstractStereoAudio.pan"
 		},
 		"121": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractStereoAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractStereoAudio.ts",
 			"qualifiedName": "AbstractStereoAudio.pan"
 		},
 		"122": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractStereoAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractStereoAudio.ts",
 			"qualifiedName": "AbstractStereoAudio.pan"
 		},
 		"123": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractStereoAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractStereoAudio.ts",
 			"qualifiedName": "value"
 		},
 		"124": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioBus.ts",
 			"qualifiedName": "CreateAudioBusAsync"
 		},
 		"125": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioBus.ts",
 			"qualifiedName": "CreateAudioBusAsync"
 		},
 		"126": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioBus.ts",
 			"qualifiedName": "name"
 		},
 		"127": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioBus.ts",
 			"qualifiedName": "options"
 		},
 		"128": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioBus.ts",
 			"qualifiedName": "engine"
 		},
 		"129": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioEngine.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioEngine.ts",
 			"qualifiedName": "CreateAudioEngineAsync"
 		},
 		"130": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioEngine.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioEngine.ts",
 			"qualifiedName": "CreateAudioEngineAsync"
 		},
 		"131": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioEngine.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioEngine.ts",
 			"qualifiedName": "options"
 		},
 		"132": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioEngine.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioEngine.ts",
 			"qualifiedName": "IWebAudioEngineOptions"
 		},
 		"133": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioEngine.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioEngine.ts",
 			"qualifiedName": "IWebAudioEngineOptions.audioContext"
 		},
 		"134": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioEngine.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioEngine.ts",
 			"qualifiedName": "IWebAudioEngineOptions.resumeOnInteraction"
 		},
 		"135": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioEngine.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioEngine.ts",
 			"qualifiedName": "IWebAudioEngineOptions.resumeOnPause"
 		},
 		"136": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioEngine.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioEngine.ts",
 			"qualifiedName": "IWebAudioEngineOptions.resumeOnPauseRetryInterval"
 		},
 		"137": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "IAudioEngineV2Options.volume"
 		},
 		"138": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "ISpatialAudioListenerOptions.listenerEnabled"
 		},
 		"139": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "ISpatialAudioListenerOptions.listenerPosition"
 		},
 		"140": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "ISpatialAudioListenerOptions.listenerRotation"
 		},
 		"141": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "ISpatialAudioListenerOptions.listenerRotationQuaternion"
 		},
 		"142": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioMainBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioMainBus.ts",
 			"qualifiedName": "CreateMainAudioBusAsync"
 		},
 		"143": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioMainBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioMainBus.ts",
 			"qualifiedName": "CreateMainAudioBusAsync"
 		},
 		"144": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioMainBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioMainBus.ts",
 			"qualifiedName": "name"
 		},
 		"145": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioMainBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioMainBus.ts",
 			"qualifiedName": "options"
 		},
 		"146": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioMainBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioMainBus.ts",
 			"qualifiedName": "engine"
 		},
 		"147": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioStaticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioStaticSound.ts",
 			"qualifiedName": "CreateSoundAsync"
 		},
 		"148": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioStaticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioStaticSound.ts",
 			"qualifiedName": "CreateSoundAsync"
 		},
 		"149": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioStaticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioStaticSound.ts",
 			"qualifiedName": "name"
 		},
 		"150": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioStaticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioStaticSound.ts",
 			"qualifiedName": "source"
 		},
 		"151": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioStaticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioStaticSound.ts",
 			"qualifiedName": "options"
 		},
 		"152": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioStaticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioStaticSound.ts",
 			"qualifiedName": "engine"
 		},
 		"153": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioStaticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioStaticSound.ts",
 			"qualifiedName": "CreateSoundBufferAsync"
 		},
 		"154": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioStaticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioStaticSound.ts",
 			"qualifiedName": "CreateSoundBufferAsync"
 		},
 		"155": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioStaticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioStaticSound.ts",
 			"qualifiedName": "source"
 		},
 		"156": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioStaticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioStaticSound.ts",
 			"qualifiedName": "options"
 		},
 		"157": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioStaticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioStaticSound.ts",
 			"qualifiedName": "engine"
 		},
 		"158": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioStreamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioStreamingSound.ts",
 			"qualifiedName": "CreateStreamingSoundAsync"
 		},
 		"159": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioStreamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioStreamingSound.ts",
 			"qualifiedName": "CreateStreamingSoundAsync"
 		},
 		"160": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioStreamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioStreamingSound.ts",
 			"qualifiedName": "name"
 		},
 		"161": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioStreamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioStreamingSound.ts",
 			"qualifiedName": "source"
 		},
 		"162": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioStreamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioStreamingSound.ts",
 			"qualifiedName": "options"
 		},
 		"163": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/webAudio/webAudioStreamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/webAudio/webAudioStreamingSound.ts",
 			"qualifiedName": "engine"
 		},
 		"164": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "AbstractAudioBus"
 		},
 		"165": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "AbstractAudioBus.__constructor"
 		},
 		"166": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "AbstractAudioBus"
 		},
 		"167": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "name"
 		},
 		"168": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "engine"
 		},
 		"169": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "AbstractAudioBus._subGraph"
 		},
 		"170": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "AbstractAudioBus.volume"
 		},
 		"171": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "AbstractAudioBus.volume"
 		},
 		"172": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "AbstractAudioBus.volume"
 		},
 		"173": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "value"
 		},
 		"174": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "AbstractAudioBus.dispose"
 		},
 		"175": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "AbstractAudioBus.dispose"
 		},
 		"176": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.onNameChangedObservable"
 		},
 		"177": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type"
 		},
 		"178": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type.oldName"
 		},
 		"179": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type.node"
 		},
 		"180": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"181": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"182": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"183": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "name"
 		},
 		"184": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._downstreamNodes"
 		},
 		"185": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._upstreamNodes"
 		},
 		"186": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.engine"
 		},
 		"187": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.onDisposeObservable"
 		},
 		"188": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.getClassName"
 		},
 		"189": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.getClassName"
 		},
 		"190": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._connect"
 		},
 		"191": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._connect"
 		},
 		"192": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "node"
 		},
 		"193": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._disconnect"
 		},
 		"194": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._disconnect"
 		},
 		"195": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "node"
 		},
 		"196": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundPlayOptions"
 		},
 		"197": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundPlayOptions.loop"
 		},
 		"198": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundPlayOptions.startOffset"
 		},
 		"199": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subNodes/volumeAudioSubNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subNodes/volumeAudioSubNode.ts",
 			"qualifiedName": "IVolumeAudioOptions.volume"
 		},
 		"200": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundOptions"
 		},
 		"201": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundOptions.autoplay"
 		},
 		"202": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundOptions.maxInstances"
 		},
 		"203": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundOptions.outBus"
 		},
 		"204": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundPlayOptions.loop"
 		},
 		"205": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundPlayOptions.startOffset"
 		},
 		"206": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subNodes/volumeAudioSubNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subNodes/volumeAudioSubNode.ts",
 			"qualifiedName": "IVolumeAudioOptions.volume"
 		},
 		"207": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialConeInnerAngle"
 		},
 		"208": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialConeOuterAngle"
 		},
 		"209": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialConeOuterVolume"
 		},
 		"210": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialDistanceModel"
 		},
 		"211": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialEnabled"
 		},
 		"212": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialMaxDistance"
 		},
 		"213": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialPanningModel"
 		},
 		"214": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialPosition"
 		},
 		"215": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialReferenceDistance"
 		},
 		"216": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialRolloffFactor"
 		},
 		"217": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialRotation"
 		},
 		"218": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialRotationQuaternion"
 		},
 		"219": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractStereoAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractStereoAudio.ts",
 			"qualifiedName": "IStereoAudioOptions.stereoEnabled"
 		},
 		"220": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractStereoAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractStereoAudio.ts",
 			"qualifiedName": "IStereoAudioOptions.stereoPan"
 		},
 		"221": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound"
 		},
 		"222": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.__constructor"
 		},
 		"223": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound"
 		},
 		"224": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "name"
 		},
 		"225": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "engine"
 		},
 		"226": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "options"
 		},
 		"229": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._instances"
 		},
 		"230": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._options"
 		},
 		"231": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._subGraph"
 		},
 		"232": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.onEndedObservable"
 		},
 		"233": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.autoplay"
 		},
 		"234": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.autoplay"
 		},
 		"235": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.currentTime"
 		},
 		"236": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.currentTime"
 		},
 		"237": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.currentTime"
 		},
 		"238": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "value"
 		},
 		"239": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.loop"
 		},
 		"240": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.loop"
 		},
 		"241": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.loop"
 		},
 		"242": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "value"
 		},
 		"243": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.maxInstances"
 		},
 		"244": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.maxInstances"
 		},
 		"245": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.maxInstances"
 		},
 		"246": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "value"
 		},
 		"247": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.outBus"
 		},
 		"248": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.outBus"
 		},
 		"249": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.outBus"
 		},
 		"250": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "outBus"
 		},
 		"251": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.spatial"
 		},
 		"252": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.spatial"
 		},
 		"253": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.startOffset"
 		},
 		"254": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.startOffset"
 		},
 		"255": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.startOffset"
 		},
 		"256": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "value"
 		},
 		"257": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.state"
 		},
 		"258": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.state"
 		},
 		"259": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.stereo"
 		},
 		"260": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.stereo"
 		},
 		"261": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.volume"
 		},
 		"262": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.volume"
 		},
 		"263": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.volume"
 		},
 		"264": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "value"
 		},
 		"265": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._isPaused"
 		},
 		"266": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._isPaused"
 		},
 		"267": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.dispose"
 		},
 		"268": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.dispose"
 		},
 		"269": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.play"
 		},
 		"270": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.play"
 		},
 		"271": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "options"
 		},
 		"272": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.pause"
 		},
 		"273": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.pause"
 		},
 		"274": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.resume"
 		},
 		"275": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.resume"
 		},
 		"276": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.stop"
 		},
 		"277": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.stop"
 		},
 		"278": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._beforePlay"
 		},
 		"279": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._beforePlay"
 		},
 		"280": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "instance"
 		},
 		"281": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._afterPlay"
 		},
 		"282": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._afterPlay"
 		},
 		"283": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "instance"
 		},
 		"284": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._setState"
 		},
 		"285": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._setState"
 		},
 		"286": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "state"
 		},
 		"287": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._createInstance"
 		},
 		"288": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._createInstance"
 		},
 		"289": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._stopExcessInstances"
 		},
 		"290": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._stopExcessInstances"
 		},
 		"297": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.onNameChangedObservable"
 		},
 		"298": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type"
 		},
 		"299": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type.oldName"
 		},
 		"300": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type.node"
 		},
 		"301": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"302": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"303": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"304": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "name"
 		},
 		"305": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._downstreamNodes"
 		},
 		"306": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._upstreamNodes"
 		},
 		"307": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.engine"
 		},
 		"308": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.onDisposeObservable"
 		},
 		"309": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.getClassName"
 		},
 		"310": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.getClassName"
 		},
 		"311": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._connect"
 		},
 		"312": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._connect"
 		},
 		"313": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "node"
 		},
 		"314": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._disconnect"
 		},
 		"315": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._disconnect"
 		},
 		"316": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "node"
 		},
 		"317": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioBus.ts",
 			"qualifiedName": "PrimaryAudioBus"
 		},
 		"318": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioBus.ts",
 			"qualifiedName": "IAudioBusOptions"
 		},
 		"319": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioBus.ts",
 			"qualifiedName": "IAudioBusOptions.outBus"
 		},
 		"320": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialConeInnerAngle"
 		},
 		"321": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialConeOuterAngle"
 		},
 		"322": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialConeOuterVolume"
 		},
 		"323": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialDistanceModel"
 		},
 		"324": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialEnabled"
 		},
 		"325": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialMaxDistance"
 		},
 		"326": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialPanningModel"
 		},
 		"327": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialPosition"
 		},
 		"328": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialReferenceDistance"
 		},
 		"329": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialRolloffFactor"
 		},
 		"330": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialRotation"
 		},
 		"331": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialRotationQuaternion"
 		},
 		"332": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractStereoAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractStereoAudio.ts",
 			"qualifiedName": "IStereoAudioOptions.stereoEnabled"
 		},
 		"333": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractStereoAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractStereoAudio.ts",
 			"qualifiedName": "IStereoAudioOptions.stereoPan"
 		},
 		"334": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subNodes/volumeAudioSubNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subNodes/volumeAudioSubNode.ts",
 			"qualifiedName": "IVolumeAudioOptions.volume"
 		},
 		"335": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioBus.ts",
 			"qualifiedName": "AudioBus"
 		},
 		"336": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioBus.ts",
 			"qualifiedName": "AudioBus.__constructor"
 		},
 		"337": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioBus.ts",
 			"qualifiedName": "AudioBus"
 		},
 		"338": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioBus.ts",
 			"qualifiedName": "name"
 		},
 		"339": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioBus.ts",
 			"qualifiedName": "engine"
 		},
 		"341": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioBus.ts",
 			"qualifiedName": "AudioBus.outBus"
 		},
 		"342": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioBus.ts",
 			"qualifiedName": "AudioBus.outBus"
 		},
 		"343": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioBus.ts",
 			"qualifiedName": "AudioBus.outBus"
 		},
 		"344": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioBus.ts",
 			"qualifiedName": "outBus"
 		},
 		"345": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioBus.ts",
 			"qualifiedName": "AudioBus.spatial"
 		},
 		"346": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioBus.ts",
 			"qualifiedName": "AudioBus.spatial"
 		},
 		"347": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioBus.ts",
 			"qualifiedName": "AudioBus.stereo"
 		},
 		"348": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioBus.ts",
 			"qualifiedName": "AudioBus.stereo"
 		},
 		"349": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioBus.ts",
 			"qualifiedName": "AudioBus.dispose"
 		},
 		"350": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioBus.ts",
 			"qualifiedName": "AudioBus.dispose"
 		},
 		"351": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "AbstractAudioBus._subGraph"
 		},
 		"352": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "AbstractAudioBus.volume"
 		},
 		"353": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "AbstractAudioBus.volume"
 		},
 		"354": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "AbstractAudioBus.volume"
 		},
 		"355": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "value"
 		},
 		"356": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.onNameChangedObservable"
 		},
 		"357": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type"
 		},
 		"358": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type.oldName"
 		},
 		"359": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type.node"
 		},
 		"360": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"361": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"362": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"363": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "name"
 		},
 		"364": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._downstreamNodes"
 		},
 		"365": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._upstreamNodes"
 		},
 		"366": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.engine"
 		},
 		"367": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.onDisposeObservable"
 		},
 		"368": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.getClassName"
 		},
 		"369": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.getClassName"
 		},
 		"370": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._connect"
 		},
 		"371": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._connect"
 		},
 		"372": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "node"
 		},
 		"373": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._disconnect"
 		},
 		"374": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._disconnect"
 		},
 		"375": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "node"
 		},
 		"376": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "LastCreatedAudioEngine"
 		},
 		"377": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "LastCreatedAudioEngine"
 		},
 		"378": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "IAudioEngineV2Options"
 		},
 		"379": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "IAudioEngineV2Options.volume"
 		},
 		"380": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "ISpatialAudioListenerOptions.listenerEnabled"
 		},
 		"381": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "ISpatialAudioListenerOptions.listenerPosition"
 		},
 		"382": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "ISpatialAudioListenerOptions.listenerRotation"
 		},
 		"383": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudioListener.ts",
 			"qualifiedName": "ISpatialAudioListenerOptions.listenerRotationQuaternion"
 		},
 		"384": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2State"
 		},
 		"385": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2"
 		},
 		"386": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.__constructor"
 		},
 		"387": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2"
 		},
 		"391": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.currentTime"
 		},
 		"392": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.currentTime"
 		},
 		"393": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.defaultMainBus"
 		},
 		"394": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.defaultMainBus"
 		},
 		"395": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.isWebAudio"
 		},
 		"396": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.isWebAudio"
 		},
 		"397": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.listener"
 		},
 		"398": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.listener"
 		},
 		"399": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.mainOut"
 		},
 		"400": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.mainOut"
 		},
 		"401": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.state"
 		},
 		"402": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.state"
 		},
 		"403": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.volume"
 		},
 		"404": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.volume"
 		},
 		"405": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.volume"
 		},
 		"406": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "value"
 		},
 		"407": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.dispose"
 		},
 		"408": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.dispose"
 		},
 		"409": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.formatIsValid"
 		},
 		"410": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.formatIsValid"
 		},
 		"411": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "format"
 		},
 		"412": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.pause"
 		},
 		"413": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.pause"
 		},
 		"414": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.resume"
 		},
 		"415": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.resume"
 		},
 		"416": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.unlock"
 		},
 		"417": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2.unlock"
 		},
 		"418": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2._addMainBus"
 		},
 		"419": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2._addMainBus"
 		},
 		"420": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "mainBus"
 		},
 		"421": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2._removeMainBus"
 		},
 		"422": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2._removeMainBus"
 		},
 		"423": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "mainBus"
 		},
 		"424": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2._addNode"
 		},
 		"425": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2._addNode"
 		},
 		"426": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "node"
 		},
 		"427": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2._removeNode"
 		},
 		"428": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "AudioEngineV2._removeNode"
 		},
 		"429": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/audioEngineV2.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/audioEngineV2.ts",
 			"qualifiedName": "node"
 		},
 		"430": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/mainAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/mainAudioBus.ts",
 			"qualifiedName": "IMainAudioBusOptions"
 		},
 		"431": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subNodes/volumeAudioSubNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subNodes/volumeAudioSubNode.ts",
 			"qualifiedName": "IVolumeAudioOptions.volume"
 		},
 		"432": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/mainAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/mainAudioBus.ts",
 			"qualifiedName": "MainAudioBus"
 		},
 		"433": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/mainAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/mainAudioBus.ts",
 			"qualifiedName": "MainAudioBus.__constructor"
 		},
 		"434": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/mainAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/mainAudioBus.ts",
 			"qualifiedName": "MainAudioBus"
 		},
 		"435": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/mainAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/mainAudioBus.ts",
 			"qualifiedName": "name"
 		},
 		"436": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/mainAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/mainAudioBus.ts",
 			"qualifiedName": "engine"
 		},
 		"437": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "AbstractAudioBus._subGraph"
 		},
 		"438": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "AbstractAudioBus.volume"
 		},
 		"439": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "AbstractAudioBus.volume"
 		},
 		"440": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "AbstractAudioBus.volume"
 		},
 		"441": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "value"
 		},
 		"442": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "AbstractAudioBus.dispose"
 		},
 		"443": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioBus.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioBus.ts",
 			"qualifiedName": "AbstractAudioBus.dispose"
 		},
 		"444": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.onNameChangedObservable"
 		},
 		"445": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type"
 		},
 		"446": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type.oldName"
 		},
 		"447": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type.node"
 		},
 		"448": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"449": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"450": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"451": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "name"
 		},
 		"452": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._downstreamNodes"
 		},
 		"453": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._upstreamNodes"
 		},
 		"454": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.engine"
 		},
 		"455": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.onDisposeObservable"
 		},
 		"456": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.getClassName"
 		},
 		"457": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.getClassName"
 		},
 		"458": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._connect"
 		},
 		"459": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._connect"
 		},
 		"460": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "node"
 		},
 		"461": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._disconnect"
 		},
 		"462": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._disconnect"
 		},
 		"463": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "node"
 		},
 		"464": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "IStaticSoundPlayOptions"
 		},
 		"465": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "IStaticSoundPlayOptions.waitTime"
 		},
 		"466": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundPlayOptions.loop"
 		},
 		"467": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundPlayOptions.startOffset"
 		},
 		"468": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subNodes/volumeAudioSubNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subNodes/volumeAudioSubNode.ts",
 			"qualifiedName": "IVolumeAudioOptions.volume"
 		},
 		"469": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "ICommonStaticSoundOptions.duration"
 		},
 		"470": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "ICommonStaticSoundOptions.loopStart"
 		},
 		"471": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "ICommonStaticSoundOptions.loopEnd"
 		},
 		"472": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "ICommonStaticSoundOptions.pitch"
 		},
 		"473": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "ICommonStaticSoundOptions.playbackRate"
 		},
 		"474": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "IStaticSoundStopOptions"
 		},
 		"475": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "IStaticSoundStopOptions.waitTime"
 		},
 		"476": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "IStaticSoundOptions"
 		},
 		"477": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "IStaticSoundOptions.skipCodecCheck"
 		},
 		"478": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundOptions.autoplay"
 		},
 		"479": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundOptions.maxInstances"
 		},
 		"480": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundOptions.outBus"
 		},
 		"481": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundPlayOptions.loop"
 		},
 		"482": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundPlayOptions.startOffset"
 		},
 		"483": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subNodes/volumeAudioSubNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subNodes/volumeAudioSubNode.ts",
 			"qualifiedName": "IVolumeAudioOptions.volume"
 		},
 		"484": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialConeInnerAngle"
 		},
 		"485": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialConeOuterAngle"
 		},
 		"486": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialConeOuterVolume"
 		},
 		"487": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialDistanceModel"
 		},
 		"488": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialEnabled"
 		},
 		"489": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialMaxDistance"
 		},
 		"490": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialPanningModel"
 		},
 		"491": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialPosition"
 		},
 		"492": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialReferenceDistance"
 		},
 		"493": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialRolloffFactor"
 		},
 		"494": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialRotation"
 		},
 		"495": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialRotationQuaternion"
 		},
 		"496": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractStereoAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractStereoAudio.ts",
 			"qualifiedName": "IStereoAudioOptions.stereoEnabled"
 		},
 		"497": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractStereoAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractStereoAudio.ts",
 			"qualifiedName": "IStereoAudioOptions.stereoPan"
 		},
 		"498": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "ICommonStaticSoundOptions.duration"
 		},
 		"499": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "ICommonStaticSoundOptions.loopStart"
 		},
 		"500": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "ICommonStaticSoundOptions.loopEnd"
 		},
 		"501": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "ICommonStaticSoundOptions.pitch"
 		},
 		"502": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "ICommonStaticSoundOptions.playbackRate"
 		},
 		"503": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound"
 		},
 		"504": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.__constructor"
 		},
 		"505": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound"
 		},
 		"506": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "name"
 		},
 		"507": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "engine"
 		},
 		"508": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "options"
 		},
 		"509": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound._instances"
 		},
 		"510": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound._options"
 		},
 		"511": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.buffer"
 		},
 		"512": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.duration"
 		},
 		"513": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.duration"
 		},
 		"514": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.duration"
 		},
 		"515": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "value"
 		},
 		"516": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.loopStart"
 		},
 		"517": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.loopStart"
 		},
 		"518": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.loopStart"
 		},
 		"519": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "value"
 		},
 		"520": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.loopEnd"
 		},
 		"521": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.loopEnd"
 		},
 		"522": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.loopEnd"
 		},
 		"523": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "value"
 		},
 		"524": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.pitch"
 		},
 		"525": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.pitch"
 		},
 		"526": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.pitch"
 		},
 		"527": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "value"
 		},
 		"528": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.playbackRate"
 		},
 		"529": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.playbackRate"
 		},
 		"530": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.playbackRate"
 		},
 		"531": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "value"
 		},
 		"532": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound._createInstance"
 		},
 		"533": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound._createInstance"
 		},
 		"534": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.play"
 		},
 		"535": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.play"
 		},
 		"536": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "options"
 		},
 		"537": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.stop"
 		},
 		"538": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "StaticSound.stop"
 		},
 		"539": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSound.ts",
 			"qualifiedName": "options"
 		},
 		"540": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._subGraph"
 		},
 		"541": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.onEndedObservable"
 		},
 		"542": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.autoplay"
 		},
 		"543": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.autoplay"
 		},
 		"544": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.currentTime"
 		},
 		"545": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.currentTime"
 		},
 		"546": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.currentTime"
 		},
 		"547": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "value"
 		},
 		"548": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.loop"
 		},
 		"549": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.loop"
 		},
 		"550": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.loop"
 		},
 		"551": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "value"
 		},
 		"552": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.maxInstances"
 		},
 		"553": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.maxInstances"
 		},
 		"554": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.maxInstances"
 		},
 		"555": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "value"
 		},
 		"556": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.outBus"
 		},
 		"557": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.outBus"
 		},
 		"558": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.outBus"
 		},
 		"559": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "outBus"
 		},
 		"560": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.spatial"
 		},
 		"561": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.spatial"
 		},
 		"562": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.startOffset"
 		},
 		"563": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.startOffset"
 		},
 		"564": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.startOffset"
 		},
 		"565": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "value"
 		},
 		"566": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.state"
 		},
 		"567": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.state"
 		},
 		"568": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.stereo"
 		},
 		"569": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.stereo"
 		},
 		"570": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.volume"
 		},
 		"571": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.volume"
 		},
 		"572": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.volume"
 		},
 		"573": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "value"
 		},
 		"574": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._isPaused"
 		},
 		"575": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._isPaused"
 		},
 		"576": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.dispose"
 		},
 		"577": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.dispose"
 		},
 		"578": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.pause"
 		},
 		"579": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.pause"
 		},
 		"580": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.resume"
 		},
 		"581": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.resume"
 		},
 		"582": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._beforePlay"
 		},
 		"583": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._beforePlay"
 		},
 		"584": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "instance"
 		},
 		"585": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._afterPlay"
 		},
 		"586": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._afterPlay"
 		},
 		"587": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "instance"
 		},
 		"588": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._setState"
 		},
 		"589": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._setState"
 		},
 		"590": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "state"
 		},
 		"591": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._stopExcessInstances"
 		},
 		"592": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._stopExcessInstances"
 		},
 		"593": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.onNameChangedObservable"
 		},
 		"594": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type"
 		},
 		"595": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type.oldName"
 		},
 		"596": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type.node"
 		},
 		"597": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"598": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"599": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"600": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "name"
 		},
 		"601": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._downstreamNodes"
 		},
 		"602": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._upstreamNodes"
 		},
 		"603": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.engine"
 		},
 		"604": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.onDisposeObservable"
 		},
 		"605": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.getClassName"
 		},
 		"606": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.getClassName"
 		},
 		"607": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._connect"
 		},
 		"608": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._connect"
 		},
 		"609": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "node"
 		},
 		"610": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._disconnect"
 		},
 		"611": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._disconnect"
 		},
 		"612": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "node"
 		},
 		"613": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSoundBuffer.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSoundBuffer.ts",
 			"qualifiedName": "StaticSoundBuffer"
 		},
 		"614": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSoundBuffer.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSoundBuffer.ts",
 			"qualifiedName": "StaticSoundBuffer.__constructor"
 		},
 		"615": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSoundBuffer.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSoundBuffer.ts",
 			"qualifiedName": "StaticSoundBuffer"
 		},
 		"616": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSoundBuffer.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSoundBuffer.ts",
 			"qualifiedName": "engine"
 		},
 		"617": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSoundBuffer.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSoundBuffer.ts",
 			"qualifiedName": "StaticSoundBuffer.engine"
 		},
 		"618": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSoundBuffer.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSoundBuffer.ts",
 			"qualifiedName": "StaticSoundBuffer.sampleRate"
 		},
 		"619": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSoundBuffer.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSoundBuffer.ts",
 			"qualifiedName": "StaticSoundBuffer.sampleRate"
 		},
 		"620": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSoundBuffer.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSoundBuffer.ts",
 			"qualifiedName": "StaticSoundBuffer.length"
 		},
 		"621": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSoundBuffer.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSoundBuffer.ts",
 			"qualifiedName": "StaticSoundBuffer.length"
 		},
 		"622": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSoundBuffer.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSoundBuffer.ts",
 			"qualifiedName": "StaticSoundBuffer.duration"
 		},
 		"623": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSoundBuffer.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSoundBuffer.ts",
 			"qualifiedName": "StaticSoundBuffer.duration"
 		},
 		"624": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSoundBuffer.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSoundBuffer.ts",
 			"qualifiedName": "StaticSoundBuffer.channelCount"
 		},
 		"625": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/staticSoundBuffer.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/staticSoundBuffer.ts",
 			"qualifiedName": "StaticSoundBuffer.channelCount"
 		},
 		"626": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "IStreamingSoundOptions"
 		},
 		"627": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "IStreamingSoundOptions.preloadCount"
 		},
 		"628": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundOptions.autoplay"
 		},
 		"629": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundOptions.maxInstances"
 		},
 		"630": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundOptions.outBus"
 		},
 		"631": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundPlayOptions.loop"
 		},
 		"632": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "ICommonSoundPlayOptions.startOffset"
 		},
 		"633": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subNodes/volumeAudioSubNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subNodes/volumeAudioSubNode.ts",
 			"qualifiedName": "IVolumeAudioOptions.volume"
 		},
 		"634": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialConeInnerAngle"
 		},
 		"635": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialConeOuterAngle"
 		},
 		"636": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialConeOuterVolume"
 		},
 		"637": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialDistanceModel"
 		},
 		"638": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialEnabled"
 		},
 		"639": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialMaxDistance"
 		},
 		"640": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialPanningModel"
 		},
 		"641": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialPosition"
 		},
 		"642": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialReferenceDistance"
 		},
 		"643": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialRolloffFactor"
 		},
 		"644": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialRotation"
 		},
 		"645": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractSpatialAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractSpatialAudio.ts",
 			"qualifiedName": "ISpatialAudioOptions.spatialRotationQuaternion"
 		},
 		"646": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractStereoAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractStereoAudio.ts",
 			"qualifiedName": "IStereoAudioOptions.stereoEnabled"
 		},
 		"647": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/subProperties/abstractStereoAudio.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/subProperties/abstractStereoAudio.ts",
 			"qualifiedName": "IStereoAudioOptions.stereoPan"
 		},
 		"648": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "StreamingSound"
 		},
 		"649": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "StreamingSound.__constructor"
 		},
 		"650": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "StreamingSound"
 		},
 		"651": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "name"
 		},
 		"652": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "engine"
 		},
 		"653": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "options"
 		},
 		"656": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "StreamingSound._options"
 		},
 		"657": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "StreamingSound.preloadCount"
 		},
 		"658": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "StreamingSound.preloadCount"
 		},
 		"659": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "StreamingSound.preloadedCount"
 		},
 		"660": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "StreamingSound.preloadedCount"
 		},
 		"661": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "StreamingSound.preloadInstance"
 		},
 		"662": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "StreamingSound.preloadInstance"
 		},
 		"663": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "StreamingSound.preloadInstances"
 		},
 		"664": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "StreamingSound.preloadInstances"
 		},
 		"665": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "count"
 		},
 		"666": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "StreamingSound.play"
 		},
 		"667": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "StreamingSound.play"
 		},
 		"668": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "options"
 		},
 		"669": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "StreamingSound.stop"
 		},
 		"670": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "StreamingSound.stop"
 		},
 		"671": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "StreamingSound._createInstance"
 		},
 		"672": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "StreamingSound._createInstance"
 		},
 		"673": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "StreamingSound._instancesPreloadedPromise"
 		},
 		"674": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/streamingSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/streamingSound.ts",
 			"qualifiedName": "StreamingSound._instancesPreloadedPromise"
 		},
 		"682": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._instances"
 		},
 		"683": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._subGraph"
 		},
 		"684": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.onEndedObservable"
 		},
 		"685": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.autoplay"
 		},
 		"686": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.autoplay"
 		},
 		"687": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.currentTime"
 		},
 		"688": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.currentTime"
 		},
 		"689": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.currentTime"
 		},
 		"690": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "value"
 		},
 		"691": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.loop"
 		},
 		"692": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.loop"
 		},
 		"693": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.loop"
 		},
 		"694": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "value"
 		},
 		"695": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.maxInstances"
 		},
 		"696": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.maxInstances"
 		},
 		"697": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.maxInstances"
 		},
 		"698": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "value"
 		},
 		"699": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.outBus"
 		},
 		"700": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.outBus"
 		},
 		"701": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.outBus"
 		},
 		"702": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "outBus"
 		},
 		"703": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.spatial"
 		},
 		"704": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.spatial"
 		},
 		"705": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.startOffset"
 		},
 		"706": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.startOffset"
 		},
 		"707": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.startOffset"
 		},
 		"708": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "value"
 		},
 		"709": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.state"
 		},
 		"710": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.state"
 		},
 		"711": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.stereo"
 		},
 		"712": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.stereo"
 		},
 		"713": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.volume"
 		},
 		"714": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.volume"
 		},
 		"715": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.volume"
 		},
 		"716": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "value"
 		},
 		"717": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._isPaused"
 		},
 		"718": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._isPaused"
 		},
 		"719": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.dispose"
 		},
 		"720": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.dispose"
 		},
 		"721": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.pause"
 		},
 		"722": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.pause"
 		},
 		"723": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.resume"
 		},
 		"724": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound.resume"
 		},
 		"725": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._beforePlay"
 		},
 		"726": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._beforePlay"
 		},
 		"727": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "instance"
 		},
 		"728": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._afterPlay"
 		},
 		"729": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._afterPlay"
 		},
 		"730": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "instance"
 		},
 		"731": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._setState"
 		},
 		"732": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._setState"
 		},
 		"733": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "state"
 		},
 		"734": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._stopExcessInstances"
 		},
 		"735": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractSound.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractSound.ts",
 			"qualifiedName": "AbstractSound._stopExcessInstances"
 		},
 		"736": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.onNameChangedObservable"
 		},
 		"737": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type"
 		},
 		"738": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type.oldName"
 		},
 		"739": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "__type.node"
 		},
 		"740": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"741": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"742": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractNamedAudioNode.name"
 		},
 		"743": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "name"
 		},
 		"744": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._downstreamNodes"
 		},
 		"745": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._upstreamNodes"
 		},
 		"746": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.engine"
 		},
 		"747": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.onDisposeObservable"
 		},
 		"748": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.getClassName"
 		},
 		"749": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode.getClassName"
 		},
 		"750": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._connect"
 		},
 		"751": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._connect"
 		},
 		"752": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "node"
 		},
 		"753": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._disconnect"
 		},
 		"754": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "AbstractAudioNode._disconnect"
 		},
 		"755": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/abstractAudio/abstractAudioNode.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/abstractAudio/abstractAudioNode.ts",
 			"qualifiedName": "node"
 		},
 		"756": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/soundState.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/soundState.ts",
 			"qualifiedName": "SoundState"
 		},
 		"757": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/soundState.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/soundState.ts",
 			"qualifiedName": "SoundState.Stopping"
 		},
 		"758": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/soundState.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/soundState.ts",
 			"qualifiedName": "SoundState.Stopped"
 		},
 		"759": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/soundState.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/soundState.ts",
 			"qualifiedName": "SoundState.Starting"
 		},
 		"760": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/soundState.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/soundState.ts",
 			"qualifiedName": "SoundState.Started"
 		},
 		"761": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/soundState.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/soundState.ts",
 			"qualifiedName": "SoundState.FailedToStart"
 		},
 		"762": {
-			"sourceFileName": "packages/dev/core/src/Audio/v2/soundState.ts",
+			"sourceFileName": "packages/dev/core/src/AudioV2/soundState.ts",
 			"qualifiedName": "SoundState.Paused"
 		}
 	},
